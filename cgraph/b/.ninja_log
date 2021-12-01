@@ -1,0 +1,17 @@
+# ninja log v5
+0	22	1624370297928959118	CMakeFiles/cgraph.dir/cgraph_queue.c.o	7eab554b8863917
+0	30	1624370297936958670	CMakeFiles/cgraph.dir/cgraph_paths.c.o	57ce46a457cf2f34
+0	25	1624370297932958894	CMakeFiles/cgraph.dir/cgraph_constructors.c.o	b532c6c055aa0f2c
+36	46	1624292571827439200	libcgraph.a	67f74163408a6999
+0	44	1624370297904960463	build.ninja	7dbbea189349ee48
+1	30	1624370335614942706	CMakeFiles/cgraph.dir/cgraph_color.c.o	606d0618f95502c0
+0	32	1624370354214013829	CMakeFiles/cgraph.dir/cgraph_dfs.c.o	a38dc13812600e02
+32	43	1624370354226013244	libcgraph.a	da7d9d0df36687bd
+0	38	1624378966669692931	build.ninja	7dbbea189349ee48
+1	30	1624378966709692637	CMakeFiles/cgraph.dir/cgraph_queue.c.o	7eab554b8863917
+1	36	1624378966713692608	CMakeFiles/cgraph.dir/cgraph_constructors.c.o	b532c6c055aa0f2c
+1	41	1624378966717692578	CMakeFiles/cgraph.dir/cgraph_dfs.c.o	a38dc13812600e02
+1	41	1624378966721692549	CMakeFiles/cgraph.dir/cgraph_pruferCode.c.o	1636f46940c33d50
+0	45	1624378966721692549	CMakeFiles/cgraph.dir/cgraph_color.c.o	606d0618f95502c0
+2	45	1624378966725692519	CMakeFiles/cgraph.dir/cgraph_paths.c.o	57ce46a457cf2f34
+46	59	1624378966737692431	libcgraph.a	606277fe3f53b38b
