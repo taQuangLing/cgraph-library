@@ -7,7 +7,7 @@ Triển khai một số chức năng trên đồ thị: Tô màu, BFS, DFS, Tìm
 
 #cách chạy chương trình main:
 	mkdir b; cd b;
-	cmake .. -G Ninja
-	ninja
+	cmake .. -G Ninja;
+	ninja;
 	./main
 
